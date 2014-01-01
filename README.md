@@ -1,4 +1,5 @@
 # HelloGemWithExtensions
+[![Build Status](https://travis-ci.org/fukayatsu/hello_gem_with_extensions.png?branch=master)](https://travis-ci.org/fukayatsu/hello_gem_with_extensions)
 
 TODO: Write a gem description
 
