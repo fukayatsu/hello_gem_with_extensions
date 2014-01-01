@@ -1,5 +1,5 @@
 require "hello_gem_with_extensions/version"
+require "hello_gem_with_extensions/hello_gem_with_extensions"
 
-module HelloGemWithExtensions
-  # Your code goes here...
+class HelloGemWithExtensions
 end

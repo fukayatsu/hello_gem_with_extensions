@@ -15,3 +15,8 @@ spec/reports
 test/tmp
 test/version_tmp
 tmp
+
+lib/hello_gem_with_extensions/hello_gem_with_extensions.bundle
+lib/hello_gem_with_extensions/hello_gem_with_extensions.jar
+lib/hello_gem_with_extensions/hello_gem_with_extensions.rb
+lib/hello_gem_with_extensions/hello_gem_with_extensions.so
