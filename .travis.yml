@@ -6,3 +6,6 @@ rvm:
 - jruby-19mode
 - rbx-19mode
 script: bundle exec rake test
+env:
+  global:
+    - "JRUBY_OPTS=-Xcext.enabled=true"
